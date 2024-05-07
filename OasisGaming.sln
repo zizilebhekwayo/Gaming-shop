@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OasisGaming", "OasisGaming\OasisGaming.csproj", "{33EBC23D-E994-488C-B195-C52C2D7F2832}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33EBC23D-E994-488C-B195-C52C2D7F2832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33EBC23D-E994-488C-B195-C52C2D7F2832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33EBC23D-E994-488C-B195-C52C2D7F2832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33EBC23D-E994-488C-B195-C52C2D7F2832}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C89CE1B5-0B36-4377-AD75-B5EE07FF7B53}
+	EndGlobalSection
+EndGlobal
